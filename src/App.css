@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'Nintendo DS';
+  src: url(/Users/jackiejr/Desktop/Web Design/react-profile-card/src/Components/Assets/Nintendo-DS-BIOS.ttf) format('truetype');
+}
+
+* {
+  font-family: 'Nintendo DS';
+  font-weight: normal;
+  font-style: normal;
+}
